@@ -14,12 +14,19 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    margin: 50px 70px;
 }
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    margin: 50px 90px;
 }
 p{
+    border: 2px solid black;
+    padding: 30px 60px 30px 60px;
+    margin:auto;
+    width: 1000px;
+    height: 200px;
     font-size: 18px;
     text-align:justify;
     background-color: lightcyan;
